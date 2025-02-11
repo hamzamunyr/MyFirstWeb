@@ -1,0 +1,64 @@
+/* Reset padding and margin */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Style for the body */
+body {
+    background-color: red;
+}
+
+/* Main container */
+.man {
+    background-color: black;
+    width: 80%;
+    margin: auto;
+}
+
+/* Image at the top */
+.main img {
+    width: 100%;
+    height: 350px;
+}
+
+/* Content area containing left and right sections */
+.content_area {
+    height: 250px;
+    display: flex;
+}
+
+/* Left section */
+.left {
+    background-color: green;
+    width: 30%;
+    height: 100%;
+}
+
+/* Right section */
+.right {
+    background-color: orange;
+    width: 70%;
+    height: 100%;
+}
+
+/* Footer section */
+.footer {
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+}
+
+.nav{
+    padding: 15px 20px;
+    justify-content: center;
+    
+}
+
+.TEXT{
+    padding: 15px 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
