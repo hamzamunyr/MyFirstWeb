@@ -1,2 +1,2 @@
 To open this website click on link below
-https://hamzamunyr.github.io/coursera-test/index2.html
+https://hamzamunyr.github.io/MyFirstWeb/index2.html
